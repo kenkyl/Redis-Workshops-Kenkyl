@@ -1,3 +1,5 @@
 notes.txt
 URL_Loader.ipynb
 */.ipynb_checkpoints/
+.DS_Store
+.idea/
